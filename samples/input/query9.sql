@@ -1,0 +1,1 @@
+SELECT * FROM Reserves where 1 = 1;

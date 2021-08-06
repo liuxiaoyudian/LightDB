@@ -1,0 +1,1 @@
+SELECT * FROM Sailors S ORDER BY S.B;

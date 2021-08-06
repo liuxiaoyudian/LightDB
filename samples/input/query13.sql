@@ -1,0 +1,1 @@
+SELECT * FROM Sailors WHERE Sailors.C = 50;

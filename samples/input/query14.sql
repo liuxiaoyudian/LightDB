@@ -1,0 +1,1 @@
+SELECT Sailors.B, Sailors.C, Sailors.A FROM Sailors WHERE Sailors.B <= 200 AND Sailors.C = 50 AND Sailors.B >= 100;
